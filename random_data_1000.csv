@@ -1,0 +1,1001 @@
+state,district,gender,age
+Madhya Pradesh,Jabalpur,Female,76
+Kerala,Thrissur,Female,74
+Meghalaya,Nongpoh,Male,82
+Rajasthan,Jodhpur,Male,81
+Assam,Dibrugarh,Other,0
+Andhra Pradesh,Kurnool,Other,99
+Uttarakhand,Almora,Female,29
+Bihar,Darbhanga,Female,80
+Goa,Mapusa,Male,57
+Jammu & Kashmir,Baramulla,Female,83
+Gujarat,Bhavnagar,Male,42
+Himachal Pradesh,Mandi,Male,86
+West Bengal,Howrah,Female,17
+West Bengal,Kolkata,Male,93
+Tripura,Dharmanagar,Male,94
+Bihar,Gaya,Female,64
+West Bengal,Asansol,Female,91
+Arunachal Pradesh,Bomdila,Other,2
+Manipur,Thoubal,Other,100
+Gujarat,Bhavnagar,Male,99
+Tamil Nadu,Chennai,Male,31
+Telangana,Nizamabad,Female,94
+Tripura,Udaipur,Female,53
+Assam,Jorhat,Other,90
+Karnataka,Mysore,Other,8
+West Bengal,Siliguri,Male,73
+Karnataka,Mangalore,Other,52
+Uttar Pradesh,Kanpur,Other,3
+Chhattisgarh,Bilaspur,Female,29
+Sikkim,Mangan,Male,6
+Meghalaya,Nongpoh,Female,47
+Himachal Pradesh,Kullu,Female,11
+Sikkim,Mangan,Female,38
+Goa,Mapusa,Female,83
+Meghalaya,Nongpoh,Female,56
+Sikkim,Mangan,Other,12
+Andhra Pradesh,Vijayawada,Female,48
+Madhya Pradesh,Indore,Male,17
+Karnataka,Mangalore,Other,55
+Meghalaya,Nongpoh,Other,24
+Madhya Pradesh,Indore,Other,99
+Odisha,Bhubaneswar,Female,78
+Odisha,Cuttack,Female,91
+Gujarat,Surat,Male,87
+Punjab,Patiala,Other,51
+Assam,Jorhat,Female,55
+Sikkim,Gangtok,Male,51
+Andhra Pradesh,Visakhapatnam,Other,34
+Madhya Pradesh,Bhopal,Male,68
+Tripura,Agartala,Other,52
+Arunachal Pradesh,Pasighat,Other,28
+Uttarakhand,Almora,Male,54
+Haryana,Gurgaon,Male,54
+Goa,Vasco,Male,27
+Madhya Pradesh,Jabalpur,Female,23
+Assam,Silchar,Male,45
+Meghalaya,Jowai,Female,45
+Telangana,Khammam,Other,85
+Chhattisgarh,Korba,Male,98
+Jammu & Kashmir,Anantnag,Other,33
+Uttarakhand,Dehradun,Male,24
+Chhattisgarh,Bilaspur,Female,74
+Manipur,Thoubal,Other,91
+Telangana,Hyderabad,Female,54
+Maharashtra,Nagpur,Other,75
+Tripura,Dharmanagar,Male,72
+Manipur,Imphal,Female,91
+Jammu & Kashmir,Leh,Male,60
+Telangana,Hyderabad,Male,56
+Bihar,Patna,Male,22
+Manipur,Imphal,Other,33
+Jammu & Kashmir,Baramulla,Female,57
+Nagaland,Mokokchung,Female,85
+Nagaland,Dimapur,Female,2
+Uttar Pradesh,Varanasi,Female,33
+Arunachal Pradesh,Tawang,Male,86
+Sikkim,Singtam,Other,44
+Karnataka,Mangalore,Male,63
+Bihar,Bhagalpur,Female,56
+Goa,Vasco,Female,52
+Tripura,Udaipur,Other,12
+Gujarat,Bhavnagar,Other,57
+Karnataka,Mysore,Female,98
+Tripura,Udaipur,Male,50
+Uttar Pradesh,Lucknow,Female,11
+Haryana,Gurgaon,Other,86
+Gujarat,Ahmedabad,Female,31
+Uttar Pradesh,Lucknow,Male,74
+Tamil Nadu,Coimbatore,Female,65
+Telangana,Warangal,Male,90
+Maharashtra,Mumbai,Female,32
+West Bengal,Asansol,Male,47
+Kerala,Thrissur,Other,85
+Manipur,Thoubal,Male,73
+Uttar Pradesh,Agra,Other,51
+Jammu & Kashmir,Leh,Male,16
+Jammu & Kashmir,Anantnag,Female,50
+Andhra Pradesh,Visakhapatnam,Male,59
+Odisha,Puri,Female,4
+Rajasthan,Ajmer,Female,45
+Karnataka,Mangalore,Other,15
+Meghalaya,Nongpoh,Female,81
+Madhya Pradesh,Jabalpur,Other,62
+Madhya Pradesh,Bhopal,Other,34
+Himachal Pradesh,Mandi,Other,66
+Telangana,Khammam,Other,90
+Tamil Nadu,Coimbatore,Other,12
+Mizoram,Serchhip,Male,51
+Gujarat,Rajkot,Other,76
+Punjab,Amritsar,Female,11
+Tamil Nadu,Tiruchirappalli,Other,47
+Tripura,Dharmanagar,Male,86
+Telangana,Warangal,Male,33
+Uttarakhand,Nainital,Male,1
+West Bengal,Kolkata,Male,65
+Jammu & Kashmir,Jammu,Male,22
+Karnataka,Belgaum,Other,21
+Assam,Dibrugarh,Male,45
+Mizoram,Kolasib,Male,33
+Nagaland,Kohima,Other,88
+Kerala,Thiruvananthapuram,Male,88
+Sikkim,Namchi,Other,88
+Karnataka,Belgaum,Male,53
+Odisha,Cuttack,Other,72
+Himachal Pradesh,Manali,Female,41
+Uttar Pradesh,Lucknow,Female,70
+Mizoram,Aizawl,Male,91
+Meghalaya,Nongpoh,Female,24
+Rajasthan,Jaipur,Female,45
+Andhra Pradesh,Rajahmundry,Male,54
+Kerala,Kochi,Other,94
+Mizoram,Lunglei,Female,25
+Jammu & Kashmir,Jammu,Female,9
+Sikkim,Gangtok,Other,89
+Rajasthan,Jodhpur,Male,39
+Uttarakhand,Dehradun,Female,78
+Meghalaya,Williamnagar,Male,88
+Karnataka,Mysore,Male,60
+Goa,Mapusa,Other,42
+Telangana,Karimnagar,Female,79
+Tripura,Dharmanagar,Female,48
+Assam,Tezpur,Female,75
+Madhya Pradesh,Indore,Female,60
+Gujarat,Bhavnagar,Male,30
+Jharkhand,Jamshedpur,Other,22
+Mizoram,Aizawl,Male,17
+Haryana,Rohtak,Female,49
+Kerala,Kochi,Female,71
+Arunachal Pradesh,Tawang,Other,49
+Arunachal Pradesh,Tawang,Other,42
+Meghalaya,Shillong,Male,27
+Punjab,Jalandhar,Male,9
+Uttarakhand,Haridwar,Female,35
+Kerala,Kochi,Male,97
+Madhya Pradesh,Gwalior,Female,7
+Chhattisgarh,Bilaspur,Other,82
+Uttar Pradesh,Lucknow,Male,76
+Odisha,Bhubaneswar,Male,19
+Assam,Dibrugarh,Other,3
+Rajasthan,Jaipur,Other,45
+Nagaland,Kohima,Female,20
+Tamil Nadu,Salem,Male,69
+Goa,Ponda,Other,85
+Bihar,Patna,Female,29
+Goa,Vasco,Female,40
+Jharkhand,Dhanbad,Other,58
+Uttar Pradesh,Meerut,Male,41
+West Bengal,Howrah,Female,76
+Chhattisgarh,Durg,Male,89
+Karnataka,Hubli,Male,32
+Telangana,Karimnagar,Male,52
+Uttarakhand,Almora,Male,49
+Odisha,Rourkela,Other,74
+Manipur,Ukhrul,Female,93
+Nagaland,Dimapur,Other,29
+Gujarat,Vadodara,Male,29
+Jammu & Kashmir,Baramulla,Female,69
+Uttarakhand,Nainital,Female,9
+Uttarakhand,Dehradun,Other,98
+Jammu & Kashmir,Leh,Female,55
+Maharashtra,Aurangabad,Other,56
+Himachal Pradesh,Shimla,Other,12
+Andhra Pradesh,Rajahmundry,Other,100
+Uttar Pradesh,Lucknow,Female,61
+Goa,Margao,Male,91
+Haryana,Panipat,Female,40
+Sikkim,Gangtok,Other,59
+Mizoram,Serchhip,Male,40
+Uttar Pradesh,Agra,Male,85
+Mizoram,Serchhip,Other,92
+Jammu & Kashmir,Baramulla,Female,79
+Bihar,Gaya,Other,16
+Arunachal Pradesh,Bomdila,Female,67
+Maharashtra,Aurangabad,Other,10
+Jammu & Kashmir,Srinagar,Female,13
+Karnataka,Mysore,Male,22
+Maharashtra,Nashik,Male,97
+Andhra Pradesh,Rajahmundry,Female,77
+Telangana,Khammam,Male,15
+Uttarakhand,Almora,Other,86
+Meghalaya,Jowai,Female,92
+Jammu & Kashmir,Baramulla,Other,97
+Kerala,Kozhikode,Male,63
+Arunachal Pradesh,Itanagar,Male,82
+Punjab,Bathinda,Other,10
+Sikkim,Singtam,Female,19
+Uttar Pradesh,Kanpur,Male,1
+Nagaland,Mokokchung,Female,13
+Himachal Pradesh,Manali,Male,57
+Jammu & Kashmir,Baramulla,Other,72
+Arunachal Pradesh,Tawang,Female,34
+Karnataka,Hubli,Other,86
+Haryana,Rohtak,Other,88
+Assam,Tezpur,Male,100
+Nagaland,Dimapur,Male,3
+Sikkim,Gangtok,Other,10
+Uttar Pradesh,Lucknow,Male,35
+Sikkim,Gyalshing,Other,35
+Mizoram,Aizawl,Male,63
+Gujarat,Bhavnagar,Female,96
+Jharkhand,Hazaribagh,Female,82
+Meghalaya,Jowai,Male,59
+Manipur,Senapati,Male,68
+Karnataka,Mysore,Female,76
+Nagaland,Mokokchung,Male,10
+Nagaland,Dimapur,Male,25
+Telangana,Warangal,Other,51
+Himachal Pradesh,Dharamshala,Other,76
+Assam,Dibrugarh,Female,61
+Jharkhand,Bokaro,Male,35
+Karnataka,Bangalore,Female,30
+Meghalaya,Williamnagar,Female,5
+Odisha,Cuttack,Male,76
+Maharashtra,Mumbai,Female,11
+Kerala,Thiruvananthapuram,Other,79
+Sikkim,Gyalshing,Female,38
+Gujarat,Ahmedabad,Other,88
+Manipur,Churachandpur,Other,43
+Jharkhand,Hazaribagh,Other,79
+Meghalaya,Tura,Other,18
+Arunachal Pradesh,Itanagar,Other,78
+Haryana,Gurgaon,Female,79
+Jharkhand,Dhanbad,Other,77
+Karnataka,Mysore,Male,96
+Tripura,Udaipur,Other,33
+West Bengal,Durgapur,Male,75
+Chhattisgarh,Korba,Female,20
+Uttarakhand,Nainital,Male,63
+Assam,Jorhat,Other,51
+Kerala,Kollam,Other,94
+Sikkim,Gyalshing,Male,68
+Manipur,Churachandpur,Other,74
+Jharkhand,Bokaro,Female,22
+Kerala,Kollam,Male,55
+Goa,Margao,Female,14
+Rajasthan,Udaipur,Male,82
+Bihar,Patna,Other,84
+Nagaland,Dimapur,Female,45
+Uttarakhand,Nainital,Female,33
+West Bengal,Durgapur,Male,18
+Haryana,Gurgaon,Other,70
+Gujarat,Rajkot,Female,35
+Arunachal Pradesh,Tawang,Other,48
+Andhra Pradesh,Visakhapatnam,Female,13
+Himachal Pradesh,Mandi,Male,98
+Telangana,Hyderabad,Male,5
+Jharkhand,Bokaro,Male,19
+Haryana,Ambala,Female,15
+Jammu & Kashmir,Anantnag,Other,69
+Goa,Margao,Male,36
+Arunachal Pradesh,Itanagar,Female,42
+Arunachal Pradesh,Pasighat,Female,51
+West Bengal,Asansol,Female,38
+Gujarat,Ahmedabad,Female,78
+Goa,Margao,Other,90
+Punjab,Jalandhar,Other,32
+West Bengal,Durgapur,Female,35
+Kerala,Thiruvananthapuram,Other,9
+Haryana,Faridabad,Female,0
+Tamil Nadu,Salem,Female,59
+Sikkim,Gangtok,Female,85
+Mizoram,Serchhip,Female,35
+Jammu & Kashmir,Leh,Male,69
+Odisha,Sambalpur,Female,3
+Uttar Pradesh,Varanasi,Other,40
+Maharashtra,Aurangabad,Other,21
+Odisha,Rourkela,Female,35
+Nagaland,Wokha,Female,56
+Mizoram,Lunglei,Other,20
+Odisha,Puri,Other,84
+Kerala,Kochi,Female,61
+Jammu & Kashmir,Srinagar,Female,88
+Bihar,Bhagalpur,Other,67
+Punjab,Patiala,Male,57
+Arunachal Pradesh,Pasighat,Other,86
+Arunachal Pradesh,Bomdila,Female,88
+Tripura,Udaipur,Female,28
+Tamil Nadu,Coimbatore,Other,39
+Tamil Nadu,Chennai,Male,3
+Tamil Nadu,Madurai,Female,88
+Sikkim,Gangtok,Female,65
+Punjab,Ludhiana,Female,90
+Manipur,Thoubal,Male,79
+Mizoram,Lunglei,Other,30
+Jharkhand,Jamshedpur,Other,44
+Nagaland,Dimapur,Male,83
+West Bengal,Asansol,Other,31
+Nagaland,Mokokchung,Male,32
+Tamil Nadu,Chennai,Other,48
+Jammu & Kashmir,Baramulla,Female,99
+Telangana,Karimnagar,Female,24
+Tamil Nadu,Chennai,Male,14
+Madhya Pradesh,Indore,Other,28
+Punjab,Jalandhar,Other,31
+Assam,Tezpur,Female,7
+Mizoram,Champhai,Other,60
+Uttarakhand,Roorkee,Other,99
+Maharashtra,Aurangabad,Female,90
+Goa,Panaji,Female,82
+Jammu & Kashmir,Jammu,Male,65
+Jammu & Kashmir,Leh,Male,21
+Madhya Pradesh,Bhopal,Other,19
+Andhra Pradesh,Rajahmundry,Male,10
+Arunachal Pradesh,Ziro,Male,66
+Bihar,Darbhanga,Female,12
+Uttar Pradesh,Agra,Other,70
+Madhya Pradesh,Ujjain,Male,79
+Andhra Pradesh,Vijayawada,Female,73
+Telangana,Hyderabad,Female,13
+Manipur,Imphal,Male,79
+Andhra Pradesh,Rajahmundry,Female,2
+Andhra Pradesh,Kurnool,Female,73
+Arunachal Pradesh,Tawang,Other,12
+Maharashtra,Nashik,Other,7
+Rajasthan,Udaipur,Female,85
+Jammu & Kashmir,Baramulla,Male,55
+Tamil Nadu,Tiruchirappalli,Female,51
+Jammu & Kashmir,Leh,Female,37
+Nagaland,Dimapur,Male,38
+Bihar,Bhagalpur,Other,45
+Tamil Nadu,Tiruchirappalli,Female,1
+Jharkhand,Dhanbad,Male,55
+Tamil Nadu,Madurai,Female,43
+Gujarat,Bhavnagar,Female,90
+Gujarat,Ahmedabad,Female,50
+Gujarat,Ahmedabad,Male,50
+Punjab,Jalandhar,Other,9
+Bihar,Darbhanga,Male,33
+Jammu & Kashmir,Baramulla,Other,22
+Meghalaya,Jowai,Female,35
+Punjab,Bathinda,Other,48
+Jammu & Kashmir,Baramulla,Other,59
+Punjab,Ludhiana,Other,76
+Haryana,Ambala,Other,70
+Karnataka,Mangalore,Female,80
+Telangana,Karimnagar,Female,6
+Tamil Nadu,Chennai,Male,30
+Chhattisgarh,Bilaspur,Male,26
+Karnataka,Bangalore,Female,78
+Assam,Jorhat,Other,82
+Madhya Pradesh,Indore,Female,99
+Meghalaya,Williamnagar,Other,87
+Telangana,Warangal,Female,44
+Karnataka,Belgaum,Other,8
+Haryana,Rohtak,Other,1
+Meghalaya,Tura,Male,50
+Meghalaya,Nongpoh,Male,78
+Goa,Ponda,Male,99
+West Bengal,Howrah,Other,41
+Chhattisgarh,Bilaspur,Female,84
+Jammu & Kashmir,Leh,Male,74
+Goa,Ponda,Female,84
+Goa,Vasco,Other,32
+Jharkhand,Bokaro,Other,5
+Haryana,Ambala,Male,34
+Maharashtra,Aurangabad,Female,28
+Uttarakhand,Nainital,Male,1
+Jammu & Kashmir,Leh,Other,32
+Mizoram,Champhai,Female,90
+Telangana,Hyderabad,Male,88
+Uttarakhand,Roorkee,Female,54
+Uttarakhand,Roorkee,Female,12
+Jammu & Kashmir,Baramulla,Female,24
+Goa,Mapusa,Other,71
+Mizoram,Serchhip,Female,92
+Arunachal Pradesh,Tawang,Male,94
+Assam,Jorhat,Other,78
+Uttar Pradesh,Varanasi,Male,43
+Haryana,Ambala,Other,18
+Assam,Dibrugarh,Female,0
+Rajasthan,Jodhpur,Male,91
+Gujarat,Ahmedabad,Other,66
+Assam,Guwahati,Female,99
+Haryana,Rohtak,Female,89
+Rajasthan,Jodhpur,Male,93
+Haryana,Gurgaon,Female,7
+Madhya Pradesh,Ujjain,Female,84
+Uttar Pradesh,Meerut,Female,20
+Arunachal Pradesh,Pasighat,Male,48
+Assam,Tezpur,Other,67
+Maharashtra,Aurangabad,Female,28
+Uttar Pradesh,Varanasi,Other,26
+Assam,Silchar,Male,44
+Karnataka,Hubli,Male,21
+Arunachal Pradesh,Itanagar,Female,51
+Jammu & Kashmir,Leh,Male,62
+West Bengal,Howrah,Male,95
+Uttar Pradesh,Kanpur,Male,20
+Jammu & Kashmir,Srinagar,Other,5
+Nagaland,Kohima,Female,12
+Bihar,Bhagalpur,Other,9
+Arunachal Pradesh,Ziro,Other,21
+Karnataka,Belgaum,Female,34
+Tamil Nadu,Salem,Male,70
+Kerala,Thrissur,Other,4
+Tripura,Agartala,Other,64
+Andhra Pradesh,Rajahmundry,Male,49
+Jharkhand,Ranchi,Female,55
+Madhya Pradesh,Gwalior,Female,16
+Tamil Nadu,Salem,Female,4
+Tamil Nadu,Chennai,Female,35
+Sikkim,Singtam,Female,64
+Punjab,Jalandhar,Other,83
+Jammu & Kashmir,Leh,Male,9
+Himachal Pradesh,Kullu,Male,2
+Karnataka,Hubli,Other,25
+Rajasthan,Ajmer,Other,92
+Uttarakhand,Nainital,Female,25
+Jharkhand,Ranchi,Other,20
+Tripura,Agartala,Male,84
+Gujarat,Rajkot,Female,46
+Rajasthan,Ajmer,Male,33
+Uttarakhand,Nainital,Female,28
+Goa,Ponda,Female,14
+Tripura,Udaipur,Male,51
+Jammu & Kashmir,Baramulla,Male,7
+Goa,Panaji,Female,85
+Madhya Pradesh,Ujjain,Male,22
+Uttarakhand,Almora,Male,17
+Arunachal Pradesh,Itanagar,Male,55
+Tamil Nadu,Madurai,Other,35
+Chhattisgarh,Jagdalpur,Male,86
+Manipur,Ukhrul,Other,59
+Meghalaya,Tura,Male,18
+Odisha,Sambalpur,Other,35
+Kerala,Kozhikode,Female,36
+Nagaland,Mokokchung,Male,36
+Bihar,Muzaffarpur,Other,47
+Karnataka,Mangalore,Female,61
+Andhra Pradesh,Vijayawada,Female,51
+Bihar,Patna,Female,3
+West Bengal,Durgapur,Female,72
+Meghalaya,Nongpoh,Other,68
+Uttar Pradesh,Agra,Male,33
+Madhya Pradesh,Gwalior,Other,95
+Bihar,Darbhanga,Female,27
+Sikkim,Gangtok,Other,26
+Mizoram,Serchhip,Male,47
+Kerala,Kollam,Female,71
+Goa,Panaji,Other,73
+Uttar Pradesh,Kanpur,Other,20
+Uttarakhand,Dehradun,Female,33
+Himachal Pradesh,Manali,Female,37
+Odisha,Sambalpur,Other,44
+Uttarakhand,Nainital,Male,65
+Maharashtra,Aurangabad,Male,5
+Uttar Pradesh,Varanasi,Other,41
+Tamil Nadu,Madurai,Other,16
+Tripura,Kailashahar,Female,3
+Uttar Pradesh,Kanpur,Other,18
+Tripura,Dharmanagar,Male,81
+Chhattisgarh,Raipur,Male,19
+Chhattisgarh,Jagdalpur,Other,26
+Uttarakhand,Dehradun,Female,89
+Jharkhand,Dhanbad,Male,7
+Tamil Nadu,Salem,Female,45
+Jharkhand,Bokaro,Other,78
+Karnataka,Hubli,Male,48
+Manipur,Thoubal,Male,64
+Kerala,Kochi,Male,5
+Goa,Ponda,Other,82
+Madhya Pradesh,Bhopal,Male,96
+Uttar Pradesh,Meerut,Female,87
+Bihar,Patna,Male,32
+Chhattisgarh,Bilaspur,Female,32
+Manipur,Senapati,Other,31
+Sikkim,Mangan,Male,15
+West Bengal,Durgapur,Female,57
+Telangana,Hyderabad,Female,71
+Meghalaya,Tura,Male,18
+Rajasthan,Jodhpur,Other,93
+Mizoram,Lunglei,Other,88
+Manipur,Senapati,Other,80
+Jammu & Kashmir,Jammu,Male,95
+Kerala,Thiruvananthapuram,Other,58
+Gujarat,Ahmedabad,Male,34
+Manipur,Churachandpur,Male,60
+Goa,Mapusa,Other,45
+Madhya Pradesh,Bhopal,Other,71
+Madhya Pradesh,Indore,Male,67
+Assam,Jorhat,Other,74
+Uttarakhand,Nainital,Female,27
+Mizoram,Aizawl,Female,49
+Tripura,Dharmanagar,Male,83
+Arunachal Pradesh,Pasighat,Female,2
+Jharkhand,Dhanbad,Male,40
+Sikkim,Namchi,Other,88
+Sikkim,Gangtok,Female,74
+Gujarat,Vadodara,Female,58
+Karnataka,Mysore,Other,63
+West Bengal,Durgapur,Female,52
+Nagaland,Wokha,Other,94
+Chhattisgarh,Durg,Male,38
+Rajasthan,Jodhpur,Male,54
+Sikkim,Mangan,Other,71
+Jharkhand,Hazaribagh,Female,11
+Himachal Pradesh,Mandi,Male,27
+Maharashtra,Nagpur,Female,66
+Manipur,Churachandpur,Male,17
+Gujarat,Bhavnagar,Male,98
+Nagaland,Mokokchung,Other,51
+Punjab,Patiala,Male,31
+West Bengal,Siliguri,Other,75
+Bihar,Bhagalpur,Male,56
+Rajasthan,Ajmer,Female,53
+Kerala,Thiruvananthapuram,Female,9
+Telangana,Karimnagar,Male,40
+West Bengal,Kolkata,Other,58
+Sikkim,Singtam,Male,27
+Bihar,Bhagalpur,Other,90
+Meghalaya,Jowai,Female,41
+Telangana,Warangal,Female,51
+Haryana,Faridabad,Other,97
+Goa,Ponda,Male,10
+Rajasthan,Udaipur,Other,12
+Jammu & Kashmir,Srinagar,Other,65
+Uttarakhand,Nainital,Female,35
+Andhra Pradesh,Nellore,Male,49
+Kerala,Thiruvananthapuram,Male,8
+Maharashtra,Mumbai,Female,41
+Manipur,Churachandpur,Other,99
+Kerala,Thiruvananthapuram,Other,20
+Jammu & Kashmir,Anantnag,Female,76
+Telangana,Nizamabad,Female,26
+Andhra Pradesh,Visakhapatnam,Male,17
+Karnataka,Hubli,Other,1
+Jammu & Kashmir,Anantnag,Other,83
+Mizoram,Champhai,Female,68
+Jharkhand,Dhanbad,Female,33
+Tamil Nadu,Madurai,Male,36
+Gujarat,Bhavnagar,Male,51
+Karnataka,Bangalore,Female,71
+Goa,Mapusa,Female,83
+Sikkim,Gyalshing,Other,17
+Arunachal Pradesh,Tawang,Female,67
+Punjab,Jalandhar,Male,27
+Manipur,Thoubal,Male,74
+Karnataka,Mysore,Female,97
+Jharkhand,Bokaro,Male,98
+Bihar,Muzaffarpur,Other,48
+Sikkim,Gangtok,Female,75
+Gujarat,Bhavnagar,Female,13
+Telangana,Nizamabad,Other,69
+Tripura,Dharmanagar,Female,66
+Tripura,Kailashahar,Other,39
+Karnataka,Mysore,Male,77
+Assam,Guwahati,Female,44
+Rajasthan,Jaipur,Male,87
+Telangana,Karimnagar,Male,42
+Goa,Panaji,Other,0
+Andhra Pradesh,Rajahmundry,Male,98
+Jharkhand,Ranchi,Male,14
+Chhattisgarh,Durg,Female,98
+Uttarakhand,Nainital,Other,83
+Manipur,Thoubal,Other,77
+Assam,Jorhat,Other,60
+Karnataka,Mysore,Male,92
+Telangana,Khammam,Female,13
+Uttarakhand,Haridwar,Female,56
+Nagaland,Dimapur,Female,24
+Nagaland,Dimapur,Other,0
+Jammu & Kashmir,Leh,Male,67
+Himachal Pradesh,Dharamshala,Female,60
+Tripura,Udaipur,Male,28
+Gujarat,Bhavnagar,Male,81
+Arunachal Pradesh,Tawang,Other,24
+Mizoram,Champhai,Other,74
+Madhya Pradesh,Ujjain,Female,80
+Rajasthan,Ajmer,Female,52
+Telangana,Khammam,Other,32
+Jammu & Kashmir,Srinagar,Male,64
+Mizoram,Kolasib,Other,87
+Uttar Pradesh,Lucknow,Female,17
+Assam,Tezpur,Male,70
+Haryana,Faridabad,Other,78
+Odisha,Bhubaneswar,Female,17
+West Bengal,Asansol,Other,40
+Goa,Ponda,Other,88
+Chhattisgarh,Raipur,Other,94
+Bihar,Darbhanga,Other,48
+Uttarakhand,Roorkee,Other,12
+Assam,Dibrugarh,Male,50
+Sikkim,Mangan,Male,96
+Chhattisgarh,Durg,Other,34
+West Bengal,Kolkata,Other,63
+Mizoram,Kolasib,Other,90
+Uttarakhand,Dehradun,Female,6
+Tamil Nadu,Coimbatore,Other,40
+Meghalaya,Nongpoh,Male,22
+Uttarakhand,Nainital,Female,76
+Goa,Panaji,Female,37
+Telangana,Hyderabad,Other,19
+West Bengal,Siliguri,Other,34
+Mizoram,Kolasib,Other,25
+Mizoram,Lunglei,Female,39
+Mizoram,Lunglei,Female,17
+Maharashtra,Nashik,Other,37
+Karnataka,Bangalore,Male,31
+Manipur,Thoubal,Other,37
+Goa,Ponda,Female,58
+Himachal Pradesh,Dharamshala,Male,46
+Bihar,Bhagalpur,Other,31
+Goa,Mapusa,Male,93
+Maharashtra,Pune,Female,60
+Rajasthan,Ajmer,Male,64
+Bihar,Gaya,Male,98
+Karnataka,Mangalore,Female,1
+Gujarat,Surat,Female,75
+Maharashtra,Nashik,Other,49
+Haryana,Rohtak,Male,96
+Jharkhand,Jamshedpur,Male,35
+West Bengal,Siliguri,Other,55
+Uttarakhand,Dehradun,Male,81
+Chhattisgarh,Durg,Other,3
+Uttarakhand,Almora,Male,12
+Uttarakhand,Dehradun,Female,83
+Odisha,Cuttack,Female,83
+Meghalaya,Shillong,Female,33
+Mizoram,Kolasib,Other,38
+Gujarat,Bhavnagar,Other,88
+Assam,Silchar,Female,18
+Kerala,Kollam,Female,33
+Haryana,Ambala,Other,73
+Tamil Nadu,Coimbatore,Other,51
+Nagaland,Mokokchung,Female,77
+Assam,Silchar,Female,40
+West Bengal,Howrah,Female,34
+Arunachal Pradesh,Itanagar,Female,99
+Haryana,Panipat,Other,67
+Himachal Pradesh,Kullu,Other,43
+Punjab,Amritsar,Other,40
+Tripura,Kailashahar,Male,72
+West Bengal,Kolkata,Male,72
+Gujarat,Bhavnagar,Other,15
+Tamil Nadu,Madurai,Male,88
+Tamil Nadu,Chennai,Female,93
+Madhya Pradesh,Jabalpur,Male,56
+Jharkhand,Bokaro,Male,21
+Kerala,Thrissur,Other,90
+Jammu & Kashmir,Srinagar,Female,18
+Assam,Jorhat,Male,61
+Uttar Pradesh,Lucknow,Male,29
+Jharkhand,Hazaribagh,Other,93
+Assam,Tezpur,Female,31
+Haryana,Faridabad,Male,40
+Haryana,Rohtak,Male,2
+Telangana,Karimnagar,Male,86
+Haryana,Faridabad,Other,75
+Arunachal Pradesh,Bomdila,Other,40
+West Bengal,Durgapur,Other,5
+Goa,Vasco,Female,66
+Telangana,Warangal,Other,85
+Assam,Tezpur,Male,11
+Uttar Pradesh,Kanpur,Male,14
+Telangana,Hyderabad,Male,94
+Nagaland,Tuensang,Female,48
+Himachal Pradesh,Manali,Other,62
+Odisha,Puri,Female,56
+Jammu & Kashmir,Anantnag,Male,55
+Himachal Pradesh,Dharamshala,Female,92
+Assam,Tezpur,Other,61
+Madhya Pradesh,Indore,Other,7
+Uttarakhand,Nainital,Other,63
+Uttarakhand,Nainital,Female,96
+Maharashtra,Nagpur,Female,44
+Uttarakhand,Nainital,Male,81
+Andhra Pradesh,Kurnool,Other,21
+Nagaland,Wokha,Female,62
+Haryana,Rohtak,Other,44
+Jharkhand,Ranchi,Other,66
+Assam,Dibrugarh,Female,1
+Manipur,Churachandpur,Other,66
+Meghalaya,Williamnagar,Male,15
+Mizoram,Serchhip,Male,33
+Odisha,Sambalpur,Male,18
+Nagaland,Tuensang,Male,32
+Assam,Guwahati,Male,61
+Karnataka,Mangalore,Male,87
+Mizoram,Champhai,Male,55
+Maharashtra,Aurangabad,Male,19
+Andhra Pradesh,Nellore,Other,75
+Maharashtra,Mumbai,Male,84
+Tamil Nadu,Chennai,Male,46
+Meghalaya,Tura,Female,93
+Madhya Pradesh,Bhopal,Female,26
+Uttarakhand,Nainital,Other,10
+Uttarakhand,Haridwar,Other,65
+Assam,Guwahati,Other,16
+Kerala,Kochi,Other,24
+Haryana,Gurgaon,Male,98
+Assam,Guwahati,Male,65
+Chhattisgarh,Raipur,Female,51
+Manipur,Thoubal,Male,92
+Tamil Nadu,Tiruchirappalli,Other,62
+Kerala,Kollam,Other,21
+Chhattisgarh,Jagdalpur,Female,82
+Goa,Ponda,Male,10
+West Bengal,Durgapur,Male,91
+Sikkim,Mangan,Female,65
+Uttar Pradesh,Varanasi,Other,49
+Madhya Pradesh,Gwalior,Other,78
+Meghalaya,Shillong,Male,83
+Telangana,Karimnagar,Male,24
+Maharashtra,Nagpur,Other,61
+Madhya Pradesh,Bhopal,Other,50
+Nagaland,Tuensang,Male,81
+Madhya Pradesh,Ujjain,Other,5
+Gujarat,Surat,Female,68
+Manipur,Thoubal,Male,71
+Telangana,Karimnagar,Other,49
+Telangana,Hyderabad,Female,31
+Odisha,Sambalpur,Other,5
+Karnataka,Bangalore,Other,59
+Uttarakhand,Haridwar,Male,90
+Rajasthan,Jaipur,Male,8
+Assam,Tezpur,Male,58
+Maharashtra,Aurangabad,Male,90
+Uttar Pradesh,Lucknow,Other,94
+Jammu & Kashmir,Srinagar,Male,95
+Manipur,Churachandpur,Other,8
+Rajasthan,Jaipur,Other,36
+Meghalaya,Jowai,Male,64
+Telangana,Warangal,Other,34
+Himachal Pradesh,Dharamshala,Male,57
+West Bengal,Asansol,Male,51
+Karnataka,Mysore,Male,33
+Maharashtra,Aurangabad,Female,30
+Jammu & Kashmir,Jammu,Female,70
+Maharashtra,Nagpur,Female,31
+Jharkhand,Ranchi,Female,62
+Tamil Nadu,Coimbatore,Male,82
+Karnataka,Bangalore,Male,52
+Assam,Guwahati,Female,18
+Arunachal Pradesh,Tawang,Other,62
+West Bengal,Kolkata,Female,93
+Telangana,Karimnagar,Male,28
+West Bengal,Kolkata,Other,66
+Tamil Nadu,Tiruchirappalli,Other,16
+Punjab,Ludhiana,Male,3
+Maharashtra,Nashik,Other,34
+Gujarat,Bhavnagar,Male,42
+Jharkhand,Bokaro,Female,52
+Chhattisgarh,Durg,Male,82
+Arunachal Pradesh,Ziro,Female,65
+Andhra Pradesh,Vijayawada,Male,8
+Telangana,Hyderabad,Male,10
+Chhattisgarh,Bilaspur,Other,93
+Madhya Pradesh,Ujjain,Male,56
+Jharkhand,Bokaro,Female,5
+Arunachal Pradesh,Itanagar,Other,15
+Nagaland,Mokokchung,Other,19
+Madhya Pradesh,Ujjain,Other,66
+Telangana,Khammam,Female,54
+Karnataka,Belgaum,Female,96
+Sikkim,Singtam,Male,43
+Kerala,Thiruvananthapuram,Male,50
+Mizoram,Champhai,Female,49
+Jharkhand,Ranchi,Female,14
+Telangana,Warangal,Other,93
+Maharashtra,Nagpur,Female,5
+Kerala,Kollam,Other,30
+Goa,Margao,Other,47
+Nagaland,Dimapur,Male,8
+Maharashtra,Aurangabad,Other,88
+Gujarat,Bhavnagar,Male,68
+Arunachal Pradesh,Bomdila,Other,17
+Nagaland,Tuensang,Female,83
+Haryana,Panipat,Female,70
+Chhattisgarh,Korba,Other,15
+Uttar Pradesh,Lucknow,Male,60
+Bihar,Darbhanga,Other,47
+Madhya Pradesh,Indore,Other,4
+Nagaland,Dimapur,Female,41
+West Bengal,Kolkata,Other,47
+Kerala,Kollam,Female,12
+Sikkim,Gyalshing,Female,4
+Uttar Pradesh,Agra,Female,28
+Manipur,Imphal,Male,93
+Odisha,Bhubaneswar,Female,83
+Madhya Pradesh,Indore,Female,12
+Tamil Nadu,Tiruchirappalli,Other,75
+Andhra Pradesh,Kurnool,Other,53
+Telangana,Nizamabad,Female,89
+Bihar,Gaya,Other,39
+Haryana,Faridabad,Other,35
+Bihar,Darbhanga,Female,1
+Tripura,Agartala,Other,12
+Himachal Pradesh,Dharamshala,Male,22
+Maharashtra,Nagpur,Male,42
+Meghalaya,Jowai,Female,90
+West Bengal,Durgapur,Other,81
+Jharkhand,Jamshedpur,Male,52
+Karnataka,Mysore,Female,70
+Telangana,Karimnagar,Female,1
+Odisha,Rourkela,Other,53
+Jammu & Kashmir,Srinagar,Male,10
+Manipur,Ukhrul,Male,56
+Kerala,Kozhikode,Female,8
+Uttar Pradesh,Lucknow,Other,74
+Maharashtra,Pune,Other,47
+Sikkim,Namchi,Other,62
+Jharkhand,Jamshedpur,Other,0
+Himachal Pradesh,Mandi,Other,36
+Arunachal Pradesh,Tawang,Other,24
+Jammu & Kashmir,Jammu,Female,80
+Jharkhand,Bokaro,Other,84
+Maharashtra,Nagpur,Female,61
+Kerala,Thiruvananthapuram,Male,5
+Mizoram,Lunglei,Male,32
+Haryana,Faridabad,Other,60
+Haryana,Faridabad,Female,6
+Odisha,Sambalpur,Other,70
+West Bengal,Howrah,Other,81
+Sikkim,Gangtok,Female,6
+Odisha,Rourkela,Female,53
+Punjab,Ludhiana,Other,36
+Tamil Nadu,Madurai,Female,46
+Uttarakhand,Dehradun,Female,96
+Odisha,Puri,Other,69
+Assam,Guwahati,Male,22
+Arunachal Pradesh,Tawang,Male,47
+Meghalaya,Shillong,Other,35
+Maharashtra,Pune,Female,24
+Uttarakhand,Almora,Male,13
+Kerala,Thiruvananthapuram,Male,61
+Uttar Pradesh,Varanasi,Other,60
+Tamil Nadu,Madurai,Male,44
+Arunachal Pradesh,Bomdila,Other,30
+Punjab,Ludhiana,Other,70
+Jharkhand,Jamshedpur,Male,37
+Haryana,Panipat,Other,47
+Mizoram,Serchhip,Male,74
+Andhra Pradesh,Guntur,Male,50
+Arunachal Pradesh,Itanagar,Female,1
+Himachal Pradesh,Kullu,Female,1
+Rajasthan,Jodhpur,Other,20
+Haryana,Rohtak,Other,0
+Tripura,Udaipur,Other,51
+Mizoram,Serchhip,Other,19
+Arunachal Pradesh,Ziro,Female,72
+West Bengal,Asansol,Other,66
+Tamil Nadu,Salem,Female,61
+Arunachal Pradesh,Itanagar,Female,84
+Uttarakhand,Dehradun,Other,22
+Rajasthan,Jodhpur,Female,58
+Madhya Pradesh,Indore,Female,26
+Maharashtra,Mumbai,Female,90
+Rajasthan,Ajmer,Female,30
+Mizoram,Kolasib,Other,85
+Andhra Pradesh,Guntur,Female,17
+Chhattisgarh,Jagdalpur,Other,19
+Gujarat,Ahmedabad,Female,75
+Arunachal Pradesh,Tawang,Female,54
+Uttar Pradesh,Varanasi,Female,95
+Bihar,Patna,Other,4
+Telangana,Karimnagar,Other,94
+Nagaland,Dimapur,Male,31
+Uttar Pradesh,Kanpur,Female,6
+Odisha,Rourkela,Other,88
+Punjab,Amritsar,Other,1
+Kerala,Kochi,Male,41
+Telangana,Karimnagar,Other,66
+Kerala,Kochi,Other,5
+Tripura,Dharmanagar,Female,83
+Tripura,Udaipur,Male,55
+Andhra Pradesh,Visakhapatnam,Other,31
+Uttarakhand,Haridwar,Female,13
+Uttarakhand,Haridwar,Male,35
+Sikkim,Gyalshing,Female,41
+Gujarat,Surat,Male,75
+Maharashtra,Pune,Male,78
+Andhra Pradesh,Kurnool,Male,54
+Gujarat,Surat,Other,58
+Kerala,Kozhikode,Male,45
+Jharkhand,Bokaro,Male,65
+Himachal Pradesh,Dharamshala,Female,46
+Mizoram,Champhai,Other,80
+Tamil Nadu,Coimbatore,Female,52
+Himachal Pradesh,Kullu,Male,47
+Madhya Pradesh,Ujjain,Male,6
+Mizoram,Aizawl,Female,2
+Tripura,Dharmanagar,Male,51
+Meghalaya,Shillong,Other,10
+Goa,Panaji,Female,53
+Gujarat,Vadodara,Other,24
+Rajasthan,Ajmer,Female,14
+Tripura,Udaipur,Male,74
+Tamil Nadu,Coimbatore,Male,40
+Himachal Pradesh,Mandi,Female,29
+Tripura,Ambassa,Male,70
+Meghalaya,Shillong,Female,57
+Mizoram,Lunglei,Female,20
+Arunachal Pradesh,Pasighat,Female,44
+Punjab,Patiala,Other,14
+Jammu & Kashmir,Anantnag,Female,14
+Karnataka,Belgaum,Male,22
+Chhattisgarh,Durg,Other,83
+Chhattisgarh,Korba,Female,46
+Tamil Nadu,Tiruchirappalli,Male,11
+Arunachal Pradesh,Pasighat,Female,2
+Uttarakhand,Almora,Other,15
+Tamil Nadu,Madurai,Male,96
+Himachal Pradesh,Mandi,Female,34
+Madhya Pradesh,Gwalior,Other,2
+Punjab,Patiala,Female,3
+Uttarakhand,Dehradun,Female,12
+Uttarakhand,Roorkee,Female,47
+Madhya Pradesh,Bhopal,Male,91
+Chhattisgarh,Raipur,Male,94
+Maharashtra,Pune,Other,74
+Manipur,Imphal,Female,7
+Haryana,Panipat,Female,28
+Jammu & Kashmir,Anantnag,Male,17
+West Bengal,Howrah,Male,16
+Mizoram,Serchhip,Female,28
+Punjab,Amritsar,Male,21
+Nagaland,Dimapur,Other,81
+Odisha,Sambalpur,Other,51
+Nagaland,Mokokchung,Male,93
+Maharashtra,Mumbai,Male,0
+Jharkhand,Ranchi,Female,79
+Nagaland,Dimapur,Female,72
+Gujarat,Vadodara,Male,56
+Himachal Pradesh,Dharamshala,Other,91
+Goa,Vasco,Female,90
+Maharashtra,Pune,Other,69
+Meghalaya,Tura,Male,31
+Tamil Nadu,Madurai,Male,77
+Rajasthan,Bikaner,Female,62
+Manipur,Ukhrul,Other,11
+Himachal Pradesh,Manali,Female,2
+Punjab,Bathinda,Male,21
+West Bengal,Howrah,Other,56
+Chhattisgarh,Korba,Female,0
+Madhya Pradesh,Ujjain,Other,61
+Rajasthan,Udaipur,Female,90
+Tripura,Agartala,Other,94
+Meghalaya,Tura,Female,41
+Himachal Pradesh,Dharamshala,Female,14
+Mizoram,Serchhip,Other,39
+Maharashtra,Nashik,Male,14
+Uttarakhand,Dehradun,Other,100
+Tamil Nadu,Madurai,Male,88
+Telangana,Karimnagar,Other,74
+Mizoram,Aizawl,Male,27
+Uttarakhand,Nainital,Male,33
+Bihar,Patna,Male,87
+Bihar,Darbhanga,Male,49
+Himachal Pradesh,Manali,Female,34
+West Bengal,Siliguri,Male,80
+Odisha,Bhubaneswar,Other,73
+Rajasthan,Ajmer,Female,37
+Bihar,Gaya,Male,95
+Jammu & Kashmir,Leh,Other,15
+Tripura,Dharmanagar,Male,64
+Arunachal Pradesh,Pasighat,Male,61
+Goa,Ponda,Female,14
+Uttarakhand,Haridwar,Female,96
+Haryana,Gurgaon,Female,22
+Assam,Tezpur,Male,53
+Manipur,Senapati,Male,47
+Punjab,Ludhiana,Other,99
+Telangana,Nizamabad,Other,2
+Gujarat,Surat,Other,66
+Assam,Jorhat,Other,94
+Sikkim,Mangan,Other,97
+Manipur,Ukhrul,Female,8
+West Bengal,Asansol,Male,72
+Karnataka,Mysore,Female,25
+Kerala,Kozhikode,Other,57
+Mizoram,Champhai,Other,31
+Tamil Nadu,Madurai,Other,81
+Kerala,Kochi,Other,64
+Odisha,Puri,Male,38
+Arunachal Pradesh,Itanagar,Male,92
+Madhya Pradesh,Jabalpur,Male,79
+Mizoram,Kolasib,Other,22
+Bihar,Patna,Male,33
+Mizoram,Lunglei,Male,60
+Arunachal Pradesh,Pasighat,Male,22
