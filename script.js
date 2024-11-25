@@ -83,6 +83,21 @@ function updateBarChart(ageCounts) {
     });
 }
 
+// Display "NO RESULTS FOUND" Message
+function showNoResults() {
+    const chartsContainer = document.querySelector('.charts');
+    chartsContainer.innerHTML = '<p style="text-align: center; font-size: 18px; color: red;">NO RESULTS FOUND</p>';
+}
+
+// Reset Charts Container
+function resetChartsContainer() {
+    const chartsContainer = document.querySelector('.charts');
+    chartsContainer.innerHTML = `
+        <canvas id="pieChart"></canvas>
+        <canvas id="barChart"></canvas>
+    `;
+}
+
 // Filter and Create Charts
 function filterData(data) {
     const state = document.getElementById('state').value;
@@ -96,6 +111,13 @@ function filterData(data) {
             (gender === 'ALL' || item.gender === gender) &&
             (ageGroup.length !== 2 || (item.age >= ageGroup[0] && item.age <= ageGroup[1]));
     });
+
+    if (filteredData.length === 0) {
+        showNoResults(); // Show "NO RESULTS FOUND"
+        return;
+    }
+
+    resetChartsContainer(); // Reset chart container
 
     const genderCounts = filteredData.reduce((acc, cur) => {
         acc[cur.gender] = (acc[cur.gender] || 0) + 1;
